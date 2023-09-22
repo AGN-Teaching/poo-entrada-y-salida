@@ -1,1 +1,1 @@
-# practica-3-entrada-y-salida
+# Práctica 3: Entrada y salida
